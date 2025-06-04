@@ -1,4 +1,4 @@
-A hands-on portfolio project showcasing how to design, populate, and transform a relational database using Supabase and SQL. The project simulates a simplified e-commerce platform with key data tables such as customers, orders and products.
+A hands-on portfolio project showcasing how to design, populate and transform a relational database using Supabase and SQL. The project simulates a simplified e-commerce platform with key data tables such as customers, orders and products.
 
 - The goal is to demonstrate practical skills in:
 
@@ -8,6 +8,6 @@ A hands-on portfolio project showcasing how to design, populate, and transform a
 
 - Performing SQL-based transformations and analyses
 
-- Using Python (Jupyter Notebooks) to query, manipulate, and visualize the data
+- Using Python (Jupyter Notebooks) to query, manipulate and visualise the data
 
-The main goal of this project is showcasing data engineering, analysis and SQL skills in a real-world business context.
+The main goal of this project is to showcase data engineering, analysis and SQL skills in a real-world business context.
