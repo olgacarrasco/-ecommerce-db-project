@@ -1,2 +1,13 @@
-# -ecommerce-db-project
-A portfolio project using Supabase to create and manage an e-commerce database. Includes data loading from CSV, SQL transformations, and Python-based analysis in Jupyter Notebooks. Demonstrates practical skills in data modeling, cleaning, and insight generation.
+A hands-on portfolio project showcasing how to design, populate, and transform a relational database using Supabase and SQL. The project simulates a simplified e-commerce platform with key data tables such as customers, orders and products.
+
+- The goal is to demonstrate practical skills in:
+
+- Creating and managing a PostgreSQL database with Supabase
+
+- Loading and cleaning raw data from CSV files
+
+- Performing SQL-based transformations and analyses
+
+- Using Python (Jupyter Notebooks) to query, manipulate, and visualize the data
+
+The main goal of this project is showcasing data engineering, analysis and SQL skills in a real-world business context.
