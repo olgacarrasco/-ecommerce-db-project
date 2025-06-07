@@ -1,10 +1,10 @@
-A portfolio project using Supabase to create and manage an e-commerce database. Includes data loading from CSV, SQL transformations and Python-based analysis in Jupyter Notebooks.
+A portfolio project using Supabase to create and manage an e-commerce database. Includes data loading from CSV, SQL transformations and Python-based analysis in Jupyter Notebook.
 
 ## Features
 - PostgreSQL database setup with Supabase
 - Sample e-commerce dataset (orders, customers, products)
 - SQL data transformations and cleaning
-- Data analysis and visualization in Jupyter
+- Data analysis and visualisation in Jupyter
 
 ## How to Use
 1. Clone the repository
