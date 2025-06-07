@@ -17,4 +17,3 @@ A portfolio project using Supabase to create and manage an e-commerce database. 
 - Python (pandas, matplotlib)
 - Jupyter Notebook
 - SQL
-- 
